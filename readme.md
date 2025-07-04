@@ -1,4 +1,4 @@
-# 🤖 Asuma Multi Device - WhatsApp Bot Base
+# 🤖 Asuma Multi Device - WhatsApp Bot v1
 
 Bot WhatsApp Multi Device berbasis **type case**, mendukung:
 - ✅ WhatsApp Biasa
