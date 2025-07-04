@@ -44,13 +44,44 @@ node index.js
 ## 🗂️ Struktur Folder
 
 ```bash
-├── message/
-│   ├── case/            # Semua command ditulis dalam bentuk switch case
-├── session/             # File sesi login WhatsApp
-├── lib/                 # Fungsi bantu (helper)
-├── config.js            # Konfigurasi bot
-├── index.js             # File utama
-└── package.json
+📁 asuma/
+├── bokep.js
+├── config.js
+├── index.js
+├── package.json
+├── database/
+│   ├── absen.json
+│   ├── database.json
+│   ├── responGroup.json
+├── lib/
+│   ├── buf.js
+│   ├── color.js
+│   ├── exif.js
+│   ├── hidup-jokowi.js
+│   ├── meta.js
+│   ├── mongoDB.js
+│   ├── myfunc.js
+│   ├── myfunction.js
+│   ├── orderkuota.js
+│   ├── respon-list.js
+│   ├── respon.js
+│   ├── secereper.js
+│   ├── uploader.js
+│   ├── lowdb/
+│   │   ├── Low.js
+│   │   ├── LowSync.js
+│   │   ├── MissingAdapterError.js
+│   │   ├── index.js
+│   │   ├── adapters/
+│   │   │   ├── JSONFile.js
+│   │   │   ├── JSONFileSync.js
+│   │   │   ├── LocalStorage.js
+│   │   │   ├── Memory.js
+│   │   │   ├── MemorySync.js
+│   │   │   ├── TextFile.js
+│   │   │   ├── TextFileSync.js
+│   │   │   ├── async.js
+├── sampah/
 ```
 
 ---
