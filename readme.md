@@ -23,7 +23,7 @@ Dibuat menggunakan [@whiskeysockets/baileys](https://github.com/whiskeysockets/B
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/ditss-dev/base.git
+git clone https://github.com/ditss-dev/toki-md.git
 cd base
 ```
 
